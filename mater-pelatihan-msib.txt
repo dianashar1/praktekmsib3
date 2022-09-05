@@ -1,6 +1,6 @@
 kumpulan materi MSIB Batch 3
 Html
 Css
-JavaScript
-php
+JavaaScript
+php Native
 Database MySQL
